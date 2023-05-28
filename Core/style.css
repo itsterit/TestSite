@@ -1,0 +1,39 @@
+html,
+body {
+    overflow-x: hidden;
+    padding: 0;
+    margin: 0;
+    width: 100vw;
+    height: 100vh;
+}
+
+.about_lead:hover
+{
+    color: rgb(0, 0, 0);
+}
+
+img{
+    border-radius: 10px;
+}
+
+.catalog_link{
+    border-radius: 10px;
+}
+
+.item{
+    min-height: 100%;
+}
+
+.menu
+{
+    position: absolute;
+    top: 0;
+    right: 0;
+    padding: 0;
+    margin: 0;
+}
+
+.menu_items{
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
